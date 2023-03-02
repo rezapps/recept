@@ -10,7 +10,7 @@ This is a project built for the course "DOM Manipulating with Javascript". The a
 - Sidebar menu with links to recipes in the page.
 
 ## Demo
-For a live demo go to https://rezapps.github.io/recept/
+For a live demo visit https://rezapps.github.io/recept/
 
 ## Installation
 
