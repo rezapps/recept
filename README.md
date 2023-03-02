@@ -9,6 +9,9 @@ This is a project built for the course "DOM Manipulating with Javascript". The a
 - Rate recipes on a 5-star scale
 - Sidebar menu with links to recipes in the page.
 
+## Demo
+For a live demo go to https://rezapps.github.io/recept/
+
 ## Installation
 
 To run the app, simply clone this repository and open the `index.html` file in your browser.
