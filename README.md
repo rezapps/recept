@@ -4,10 +4,10 @@ This is a project built for the course "DOM Manipulating with Javascript". The a
 
 ## Features
 
-- Create new recipes
-- Store recipes locally
+- Create and store recipes locally
+- Search recipes by title
 - Rate recipes on a 5-star scale
-- Sort recipes by title or rating
+- Sidebar menu with links to recipes in the page.
 
 ## Installation
 
